@@ -3,11 +3,13 @@
     color: gold;
     background-color: black;
     font-weight: bold;
+    font-size: 70px;
 }
 
 .recipe1,.recipe2,.recipe3 {
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
+    font-size: 50px;
 }
 
 .recipe1 {
