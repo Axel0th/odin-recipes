@@ -1,0 +1,23 @@
+.Odin {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: gold;
+    background-color: black;
+    font-weight: bold;
+}
+
+.recipe1,.recipe2,.recipe3 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+.recipe1 {
+    color: darkorange;
+}
+
+.recipe2 {
+    color: bisque;
+}
+
+.recipe3 {
+    color: darksalmon;
+}
